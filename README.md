@@ -6,15 +6,15 @@ Welcome to the Disney Princess Trivia Game, a Python-based interactive quiz to t
 
 TABLE OF CONTENTS
 
-	Introduction
-	Features
-	How to Play
-	Levels
-	Scoring
-	Leaderboard
-	Time Limit
-	Design and Implementation
-	Conclusions
+-	Introduction
+-	Features
+-	How to Play
+-	Levels
+-	Scoring
+-	Leaderboard
+-	Time Limit
+-	Design and Implementation
+-	Conclusions
 
 INTRODUCTION
 
